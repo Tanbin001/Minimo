@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css?family=Encode+Sans+Condensed|Lato|Raleway|Roboto|Roboto+Slab|Shrikhand|Slabo+27px|Source+Sans+Pro|Spirax');
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	color:  gray;
+}
+
+*{
+	    box-sizing: border-box;
+	    -webkit-box-sizing: border-box;
+	    -moz-box-sizing: border-box;
+	    -o-box-sizing: border-box;
+}
+img{
+	max-width: 100%;
+	display: block;
+}
+
+header{
+    padding:  30px 0;
+}
+.container{
+    width: 1200px;
+    /* background-color: #e8e8e8; */
+    margin:  0 auto;
+    overflow:  hidden;
+}
+.logo{
+    width:  20%;
+    float:  left;
+}
+.logo img
+
+nav{}
+nav ul li{
+    list-style:  none;
+    display: inline-block;
+    margin: 15px;
+}
+nav ul li a{text-decoration: dashed;color:  gray;cursor: progress;font-size:  20px;padding: 40px;/* background-color: lightgray; */font-family: monospace;}
+nav ul li a:hover{}
+nav ul{
+    margin:  0;
+    padding:  0;
+    text-align: right;
+}
+
+.banner-section{}
+ .banner-section img{
+    width:  100%;
+}
+}
+
+.article-section{}
+.container-box{
+    width:  1000px;
+    margin:  0 auto;
+}
+article{
+    padding: 30px 0;
+}
+article span{
+    color: gray;
+    font-family: monospace;
+}
+article h1{
+    font-size: 2.2em;
+}
+article p{}
+article a{
+    text-decoration:  none;
+}
+article a span{}
+
+.gallery-box{
+    overflow:  hidden;
+}
+.gallery{
+    width: 50%;
+    float: left;
+    padding:  30px;
+}
+.gallery span{
+    margin-top: 35px;
+}
+.gallery h1{}
+.gallery p{}
+.gallery img{
+    width:  100%;
+    margin-bottom: 15px;
+}
+
+
+footer{
+    background-color: #cac3c3;
+    padding: 30px 0;
+}
+.footer-menu{
+    width:  50%;
+    float:  left;
+}
+.footer-menu ul{
+    margin:  0;
+    padding:  0;
+}
+.footer-menu ul li{
+    list-style:  none;
+    float:  left;
+}
+.footer-menu ul li a{
+    text-decoration:  none;
+    color:  black;
+    text-transform:  capitalize;
+    margin-right:  20px;
+}
+.footer-menu ul li a:hover{}
+
+.social-menu{
+    width:  50%;
+    display:  inline-block;
+}
+.social-menu ul{
+    margin:  0;
+    padding:  0;
+    text-align: right;
+}
+.social-menu ul li{
+    display:  inline-block;
+    font-size: 20px;
+    text-decoration: none;
+}
+.social-menu ul li span{
+    font-size:  12px;
+}
+.social-menu ul li a{
+    color: gray;
+    margin-left:  15px;
+    text-decoration:  none;
+}
+.social-menu ul li a:hover{}
+
